@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/marvel_background_splash_image" />
+    <item android:drawable="@drawable/splash_background_tint" />
+
+    <item
+        android:width="150dp"
+        android:height="250dp"
+        android:gravity="center">
+        <bitmap android:src="@drawable/marvel_splash_image" />
+    </item>
+
+</layer-list>
